@@ -77,9 +77,6 @@ Recopilada a base de buscar, filtrar y pelearse con portales de empleo. Si has p
 
 #### **Otras Empresas y Portales**
 
--   **Comunidad de Madrid**
-    -   **Portal:** [Madrid Digital - Procesos Selectivos](https://www.comunidad.madrid/servicios/empleo/procesos-selectivos-agencia-administracion-digital)
-
 -   **Correos**
     -   **Portal:** [Correos - Talento](https://career5.successfactors.eu/careers?company=CORREOS)
 
@@ -195,6 +192,3 @@ Recopilada a base de buscar, filtrar y pelearse con portales de empleo. Si has p
 
 -   **Akkodis**
     -   **Portal:** [Akkodis - Carreras](https://www.akkodis.com/es-es/careers)
-
--   **_PENDIENTE_**
-    -   **Notas:** Agrega aquí la empresa de servidores (si la tienes).
