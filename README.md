@@ -1,5 +1,3 @@
-# guia-practicas-asir-madrid
-
 # Guía de Supervivencia para Prácticas de ASIR en Madrid
 
 Una lista colaborativa de empresas que ofrecen prácticas y puestos junior para perfiles de ASIR y otros grados de TI en Madrid y alrededores.
